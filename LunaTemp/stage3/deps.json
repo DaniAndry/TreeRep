@@ -1,0 +1,17 @@
+{
+  "ignores": [],
+  "groups": [
+    [
+      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/ItemSpawner.cs"
+    ],
+    [
+      "D:/Luna/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "D:/Luna/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "D:/Luna/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}
