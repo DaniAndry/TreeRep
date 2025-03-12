@@ -1,8 +1,39 @@
 {
-  "ignores": [],
+  "ignores": [
+    "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs",
+    "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs",
+    "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs",
+    "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs",
+    "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs",
+    "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+  ],
   "groups": [
     [
-      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/ItemSpawner.cs"
+      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs"
+    ],
+    [
+      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs"
+    ],
+    [
+      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs"
+    ],
+    [
+      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs"
+    ],
+    [
+      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs"
+    ],
+    [
+      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs"
+    ],
+    [
+      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+    ],
+    [
+      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs"
+    ],
+    [
+      "D:/UnityProjects/Lumber/LunaTemp/stage3/processed-scripts/Assets/Scripts/\u0421onveyor.cs"
     ],
     [
       "D:/Luna/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
